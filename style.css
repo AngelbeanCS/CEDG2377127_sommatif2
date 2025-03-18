@@ -1,3 +1,7 @@
+body{
+    background-color: pink;
+}
+
 .image
 {
     display: flex;
@@ -5,7 +9,12 @@
     align-items: center;
 }
 
-h1
+
+h1{
+    text-align: center;
+}
+
+h2
 {
     text-align: right;
 }
